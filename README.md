@@ -33,16 +33,16 @@ The project is built using **Java** and **XML** in **Android Studio**.
 
 ---
 
-## 📸 App Preview
+
+## 🧩 Project Structure
 
 <img width="1915" height="985" alt="img1" src="https://github.com/user-attachments/assets/48a739f3-88fa-40e5-90b8-da51c0b196c5" />
+
+## 📸 App Preview
 
 <img width="1390" height="922" alt="img2" src="https://github.com/user-attachments/assets/0db3deea-0fd4-4568-b263-77cd25b23c31" />
 
 
-*(Replace images above with your actual screenshots if you want to show the real output.)*
-
 ---
 
-## 🧩 Project Structure
 
